@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://efeetietoo.jahtzee.com/sitemap.xml
